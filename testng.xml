@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HRMS App">
+
+	<test name="PIM">
+		<classes> <!-- This is my PIM Module -->
+			<class name="com.reviewclass1.AssertionReviewDemo" />
+			<class name="com.reviewclass1.AnnotationsDemo2" />
+			<class name="com.reviewclass1.AnnotationDemo" />
+		</classes>
+	</test>
+
+
+
+</suite> 
